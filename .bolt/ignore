@@ -1,0 +1,5 @@
+src/components/ui/*
+hooks/use-toast.ts
+src/pages/auth/*
+src/pages/Services/*
+src/pages/Stock/*

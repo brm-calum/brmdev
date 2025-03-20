@@ -1,0 +1,1 @@
+// This file is intentionally empty since attachments have been removed
